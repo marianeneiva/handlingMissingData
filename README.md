@@ -9,3 +9,5 @@ Althought the presence of non present data (lol) is commom, it should be manage 
 2. DELETE COLUMNS
 3. REPLACE DATA BY MEAN/MEDIAN OR MODE
 4. REPLACE NULL BY A FAKE CATEGORY
+
+Check the code at: https://github.com/marianeneiva/handlingMissingData/blob/main/handlingMissingData.ipynb
